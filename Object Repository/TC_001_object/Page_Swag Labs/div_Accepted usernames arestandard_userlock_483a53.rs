@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Accepted usernames arestandard_userlock_483a53</name>
+   <tag></tag>
+   <elementGuidId>0bfb99c3-d9ba-4c0a-9b43-5b335614e69a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login_credentials_wrap-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f560419b-52ac-4476-b103-5aaf71aaeb3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login_credentials_wrap-inner</value>
+      <webElementGuid>4391e87a-4bb3-4a03-ad8c-9cf7dd475a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_userPassword for all users:secret_sauce</value>
+      <webElementGuid>ffa82bdf-8b90-47a4-bc54-115eba402e47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;login_wrapper&quot;]/div[@class=&quot;login_credentials_wrap&quot;]/div[@class=&quot;login_credentials_wrap-inner&quot;]</value>
+      <webElementGuid>7137a346-7171-4831-a2fc-49a3d7bc7f4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div</value>
+      <webElementGuid>f3047475-cbd5-49f9-b50f-907d9e4cdfe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>cc208039-d1c7-476a-a388-6faf267cf4dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_userPassword for all users:secret_sauce' or . = 'Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_userPassword for all users:secret_sauce')]</value>
+      <webElementGuid>6ccaa880-9d21-42df-905d-9b5f9442445d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
